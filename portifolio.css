@@ -22,6 +22,10 @@ hr {
     border-color: #3c2b12;
 }
 
+strong:hover{
+    color: #6b8c46;
+}
+
 section {
     display: flex;
     padding: 0%;
